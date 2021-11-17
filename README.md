@@ -4,7 +4,7 @@
 
 # Commands for PYENC installation
 
-<ul><li><code>pkg update</code></li><li><code>pkg upgrade</code></li><li><code>pkg install python2</code></li><li><code>pkg install git</code></li><li><code>git clone https://github.com/Deadman247/Pyenc</code></li><li><code>cd pyenc</code></li><li><code>python2 pyecn</code></li></ul>
+<ul><li><code>pkg update</code></li><li><code>pkg upgrade</code></li><li><code>pkg install python2</code></li><li><code>pkg install git</code></li><li><code>git clone https://github.com/Deadman247/Pyenc</code></li><li><code>cd Pyenc</code></li><li><code>python2 pyecn</code></li></ul>
 
 <!-- wp:heading {"level":3} -->
 <h3><a href="https://github.com/Deadman247/Fb#find-me-on-"></a>Find Me on :</h3>
